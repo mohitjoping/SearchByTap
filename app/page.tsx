@@ -6,4 +6,5 @@ export default function Home() {
       <h1>SearchByTap Chrome Extension</h1>
     </div>
   );
+  
 }
