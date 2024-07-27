@@ -4,8 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && mv out/_next out/next && cp -r ./extension/* ./out/",
-  
+    "build": "next build && mv out/_next out/next && cp -r ./extension/* ./out",
     "start": "next start",
     "lint": "next lint"
   },
