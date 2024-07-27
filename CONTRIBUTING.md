@@ -1,0 +1,1 @@
+## Guide to contribute to SearchByTap Project
